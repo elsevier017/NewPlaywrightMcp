@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Playwright test results and reports
+playwright-report/
+test-results/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# TypeScript build output
+dist/
+
+# Environment files
+.env
+
+# Backup and temp files
+*.bak
+*.tmp
+*.old
